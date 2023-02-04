@@ -1,0 +1,15 @@
+ - docker run
+ - docker ps
+ - docker exec
+ - docker stop
+ - docker start
+ - ls
+ - pwd
+ - cd
+ - mkdir
+ - touch
+ - cp
+ - mv
+ - rm
+ - cat
+ - vi 
